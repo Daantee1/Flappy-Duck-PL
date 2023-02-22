@@ -1,0 +1,11 @@
+button {
+    display: flex;
+    padding: 1rem;
+    width: 10%;
+    border: none;
+    background-color: #03cae4;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.1rem;
+    font-family: inherit;
+}
